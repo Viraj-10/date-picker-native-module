@@ -1,0 +1,6 @@
+module Pods_datePickerNativeModule_datePickerNativeModuleTests {
+  umbrella header "Pods-datePickerNativeModule-datePickerNativeModuleTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
